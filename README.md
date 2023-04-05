@@ -1,0 +1,2 @@
+# Python_pratice_code
+Pratice_codingQuiestion
